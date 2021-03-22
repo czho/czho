@@ -8,7 +8,7 @@
 - finding bugs in shit
 
 ### things ive made
-- PAC and PAC 2.0 (nodejs, socketio, vuejs), stands for peabian admin console which was a program made to interface with the now defuncted server peabian which I was a developer on. (private, I dont have source anymore anyways).
+- PAC and PAC 2.0 (nodejs, socketio, vuejs), stands for peabian admin console which was a program made to interface with the now defuncted server peabian which I was a developer on. (lost source to 2.0 but really old 1.0 is on my github).
 - Weirdbrowsergame2 (nodejs, socketio) a game made by me as a challange of not having any internet and only having the modules already downloaded on my conputer.
 
 ### what im working on
