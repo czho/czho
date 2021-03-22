@@ -12,7 +12,7 @@
 - Weirdbrowsergame2 (nodejs, socketio) a game made by me as a challange of not having any internet and only having the modules already downloaded on my conputer.
 
 ### what im working on
-- skynet (nodejs, node-minecraft-protocal), a project writen in nodejs that is intended for alot of stuff but is basicly a weird way of botting shit
+- skynet (nodejs, node-minecraft-protocal), a project writen in nodejs that is intended for alot of stuff but is basicly a weird way of botting shit. This is semi privite as it is being funded by shulkerroad, older versions are open sourced the rest is not because I removed the open source code.
 - czhack (java, forge 1.12), a private forge 1.12.2 client made by me mostly to add personal modules and shit.
 ### languages i can do shit in
 - java
