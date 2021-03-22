@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi im cz
 
-<!--
-**czho/czho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### things im into
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 2b2t, a really toxic minecraft server
+- overwatch, cant really do much coding with that 
+- finding bugs in shit
+
+### what im working on
+- skynet, a project writen in nodejs that is intended for alot of stuff but is basicly a weird way of botting shit
+- czhack, a private forge 1.12.2 client made by me mostly to add personal modules and shit.
+### languages i can do shit in
+- java
+- nodejs
+- c#
+
+## shit im learning
+- c++/c
+- kotlin
+- python
