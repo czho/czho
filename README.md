@@ -7,9 +7,13 @@
 - overwatch, cant really do much coding with that 
 - finding bugs in shit
 
+### things ive made
+- PAC and PAC 2.0 (nodejs, socketio, vuejs), stands for peabian admin console which was a program made to interface with the now defuncted server peabian which I was a developer on. (private, I dont have source anymore anyways).
+- Weirdbrowsergame2 (nodejs, socketio) a game made by me as a challange of not having any internet and only having the modules already downloaded on my conputer.
+
 ### what im working on
-- skynet, a project writen in nodejs that is intended for alot of stuff but is basicly a weird way of botting shit
-- czhack, a private forge 1.12.2 client made by me mostly to add personal modules and shit.
+- skynet (nodejs, node-minecraft-protocal), a project writen in nodejs that is intended for alot of stuff but is basicly a weird way of botting shit
+- czhack (java, forge 1.12), a private forge 1.12.2 client made by me mostly to add personal modules and shit.
 ### languages i can do shit in
 - java
 - nodejs
