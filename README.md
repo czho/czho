@@ -1,11 +1,6 @@
 ### Hi im cz
 
 
-
-### help github deleted all my contributions after i changed my email
-
-
-
 ### things im into
 
 - 2b2t, a really toxic minecraft server
