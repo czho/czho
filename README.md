@@ -1,11 +1,13 @@
 ### Hi im cz
 
+![cz's GitHub stats](https://github-readme-stats.vercel.app/api?username=czho&count_private=true&show_icons=true&theme=tokyonight&hide=stars)
 
 ### things im into
 
 - 2b2t, a really toxic minecraft server
 - overwatch, cant really do much coding with that 
 - finding bugs in shit
+
 
 ### things ive made
 - PAC and PAC 2.0 (nodejs, socketio, vuejs), stands for peabian admin console which was a program made to interface with the now defuncted server peabian which I was a developer on. (lost source to 2.0 but really old 1.0 is on my github).
