@@ -22,7 +22,7 @@
 - lambda (kotlin) 1.12 utility mod.  
 - skynet (java, kotlin, docker, forge) Really complicated botting software intended to make highways on 2b *fully* automatically. 
 - ? (kotlin, java) possible client.
-- obfscmogrfator (kotlin, java) bytecode stuff.
+- Fluorium  (java) bytecode things.
 
 ### linux setup
 - Manjaro linux
