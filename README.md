@@ -27,9 +27,9 @@
 ### linux setup
 - Manjaro linux
 - Intelij Idea comunity edition and Visual Studio Code
-- I3wm (might change to awesome or dwm), i3-gaps and rofi
+- I3wm (might change to awesome or dwm), i3-gaps, picom and rofi
 - Firejail for Minecraft and Firefox
-- anarchy stuff: lambda-rice (my lambda fork) with phobos cleaned(only for pvp), smooth font, baritone, and viaforge(for test.2b2t.org)
+- Minecraft stuff: lambda-rice (my lambda fork) with phobos cleaned(only for pvp), smooth font, baritone, and viaforge(for test.2b2t.org)
 
 ### languages i can do shit in
 - java, javascript, c#, kotlin
