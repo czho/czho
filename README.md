@@ -6,12 +6,12 @@
 
 #### linux setup:
 - Endeavouros linux
-- Intelij Idea and Visual Studio Code
-- I3wm (might change to awesome or dwm), i3-gaps, picom and rofi
-- Minecraft stuff: lambda, smooth font and some custom plugins for lambda.
+- Intelij Idea and Vscode
+- I3-gaps, picom and dmenu
+- Minecraft stuff: Lambda, SmoothFont and some custom plugins for Lambda.
 
 #### languages i can do shit in:
-- java, javascript, c#, kotlin
+- java, kotlin, c#, javascript
 
 #### accounts:
 - mc: czho, 2b2tskynet
