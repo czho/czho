@@ -3,6 +3,7 @@
 - lambda (kotlin) 1.12 utility mod.
 - Pulse Client (kotlin, java) another client.
 - Mephsecure  (kotlin) a jvm bytecode obf.
+- czproxy (kotlin) an unnamed minecraft minecraft proxy.
 
 #### linux setup:
 - Endeavouros linux
