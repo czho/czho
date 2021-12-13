@@ -9,7 +9,6 @@
 - Endeavouros linux
 - Intelij Idea and Vscode
 - I3-gaps, picom and dmenu
-- Minecraft stuff: Lambda, SmoothFont and some custom plugins for Lambda.
 
 #### languages i can do shit in:
 - java, kotlin, c#, javascript
